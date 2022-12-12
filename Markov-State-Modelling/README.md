@@ -1,3 +1,3 @@
 # This is a project on VAMP Nets 
 
-This just an other example of a Markov state modelling ML algorithm.
+This is another example of a Markov state modeling ML algorithm.
